@@ -115,7 +115,7 @@ body {
     /* Absolute Center */
     position: absolute;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-80%);
     margin: 0;
 }
 
@@ -1174,4 +1174,5 @@ select:focus {
     color: var(--text-main);
     margin-top: 4px;
     display: block;
+
 }
